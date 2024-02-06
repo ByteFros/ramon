@@ -1,0 +1,58 @@
+/* Estilo para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el título principal */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilo para el subtítulo */
+h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Estilo para los artículos en inglés */
+.english-article {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 5px;
+    width: 80%;
+}
+
+/* Estilo para los artículos en español */
+.spanish-article {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 5px;
+    width: 80%;
+}
+
+/* Estilo para los títulos de los artículos */
+h2 {
+    color: #333;
+}
+
+/* Estilo para los párrafos de los artículos */
+p {
+    color: #666;
+}
+
+/* Estilo para el contenedor del feed RSS */
+div {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Estilo para el logo del feed RSS */
+div img {
+    width: 100px;
+    height: auto;
+}
